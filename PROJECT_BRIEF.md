@@ -17,7 +17,7 @@ The project is designed to support better purchasing, sales, and business decisi
 
 ### 3. Business Questions
 
-1. Which staple foods had the highest price increases and decreases over the last 24 months?
+1. Which staple foods had the highest price increases and decreases over the last 19 months?
 2. Which states currently have the cheapest and most expensive prices for each selected food item?
 3. Is there a difference between food prices in Northern and Southern Nigeria?
 4. Which food items have the biggest price differences between two states?
