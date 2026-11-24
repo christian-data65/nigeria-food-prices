@@ -4,7 +4,6 @@
 
 This project analyzes food prices across different states in Nigeria to understand price differences, identify expensive and affordable food items, and examine changes in food prices over time.
 
-## Analysis Results
 
 
 ## Analysis Results
