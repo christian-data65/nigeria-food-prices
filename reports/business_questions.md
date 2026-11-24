@@ -23,6 +23,6 @@ These are the 10 questions used for the analysis of the Nigeria Selected Food Pr
 ## Project status
 
 - [x] Business questions documented
-- [ ] SQL queries and results documented
-- [ ] Business insights written
+- [x] SQL queries and results documented
+- [x] Business insights written
 - [ ] Power BI dashboard documented
