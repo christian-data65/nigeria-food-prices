@@ -1,9 +1,0 @@
-pandas
-numpy
-openpyxl
-matplotlib
-seaborn
-sqlalchemy
-psycopg2-binary
-jupyter
-streamlit
