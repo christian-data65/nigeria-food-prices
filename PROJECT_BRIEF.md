@@ -7,10 +7,11 @@ This project analyzes food prices across different states in Nigeria to understa
 
 ### 2. Stakeholders and Their Needs
 
-Stakeholder	Information Needed
-CEO	An overview of food price trends across Nigeria.
-Procurement Team	States with the lowest food prices for selected food items.
-Sales Team	Food items and states with the highest prices and significant price increases.
+| Stakeholder | Information Needed |
+|---|---|
+| CEO | Overview of food price trends across Nigeria. |
+| Procurement Team | States with the lowest food prices for selected food items. |
+| Sales Team | Food items and states with the highest prices and significant price increases. |
 
 ### 3. Business Questions
 
