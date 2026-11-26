@@ -1,5 +1,5 @@
 # PROJECT BRIEF
-##Nigeria Food Prices Analysis
+Nigeria Food Prices Analysis
 
 ## 1.Project Overview
 
