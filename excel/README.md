@@ -27,14 +27,14 @@ The following checks were carried out:
 6. **Average Prices:** Checked for negative average prices.
 7. **MoM and YoY:** Inspected monthly and yearly price movement values.
 
-## November 2024 Inspection Findings
+## Dataset Inspection Findings
 
 - Total rows: 44
 - Total columns: 14
 - Missing values: None found
 - Duplicate food items: None found
 - Negative average prices: None found
-- Negative MoM values: 2
+- Negative MoM values: 
 - Highest and Lowest columns: Text
 - Regional price columns: Numeric
 
