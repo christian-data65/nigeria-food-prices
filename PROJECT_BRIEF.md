@@ -1,11 +1,9 @@
 # PROJECT BRIEF
 ##Nigeria Food Prices Analysis
 
-### 1. Project Overview
+## 1.Project Overview
 
-This project analyzes food prices in Nigeria using public data from different sources. The aim is to understand how food prices change over time, how prices differ across states, and how exchange rates and inflation relate to food prices.
-
-The project is designed to support better purchasing, sales, and business decisions for Ọja Foods.
+This project analyzes food prices across different states in Nigeria to understand price differences, identify expensive and affordable food items, and examine changes in food prices over time.
 
 ### 2. Stakeholders and Their Needs
 
