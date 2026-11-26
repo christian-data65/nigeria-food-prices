@@ -1,5 +1,6 @@
 # PROJECT BRIEF
-Nigeria Food Prices Analysis
+
+Nigeria Selected Food Price Watch 
 
 ## 1.Project Overview
 
