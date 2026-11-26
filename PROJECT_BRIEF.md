@@ -1,5 +1,5 @@
 # PROJECT BRIEF
-## The Cost of Eating in Nigeria — A Real-World Data Analytics Project
+##Nigeria Food Prices Analysis
 
 ### 1. Project Overview
 
