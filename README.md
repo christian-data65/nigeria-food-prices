@@ -5,21 +5,16 @@
 
 ### Project Overview
 
-This project explores food prices in Nigeria using public datasets from different sources. The aim is to understand how food prices change over time, compare prices across states, and explore how exchange rates and inflation relate to food prices.
+This project analyzes Nigerian food prices using a single public dataset. The aim is to understand how food prices change over time, compare food prices across different states in Nigeria, and identify the food items with the highest and lowest prices.
 
-### Data Sources
+### Data Source
 
 1. NBS Food Price Watch
-2. World Bank Monthly Food Price Estimates (RTFP)
-3. High Frequency Crowdsourced Prices (HFCP)
-4. Central Bank of Nigeria (CBN) Exchange Rates
-5. NBS CPI and Inflation Reports
 
 ### Tools
 
 - Microsoft Excel
 - Power Query
-- Python (Pandas)
 - MySQL
 - Power BI
 - Git and GitHub
@@ -27,30 +22,21 @@ This project explores food prices in Nigeria using public datasets from differen
 ### Project Objectives
 
 - Analyze changes in food prices over time.
-- Compare food prices across Nigerian states.
+- Compare food prices across different states in Nigeria.
 - Identify the cheapest and most expensive states for selected food items.
-- Explore the relationship between exchange rates and food prices.
-- Compare official food prices with crowdsourced market prices.
-- Build an interactive Power BI dashboard.
-
-### Project Status
-
-🚧 In Progress
+- Identify food items with the highest and lowest average prices.
+- Explore differences in food prices across states and food categories.
+- Build an interactive Power BI dashboard to visualize the findings.
 
 This project is being completed step by step as part of my learning journey as a beginner junior data analyst.
 
 ### Repository Structure
 
-- `app/` – Application files (later phase).
-- `config/` – Project configuration files.
 - `data/` – Raw, interim, and cleaned datasets.
 - `excel/` – Excel and Power Query work.
-- `notebooks/` – Python notebooks.
 - `powerbi/` – Power BI reports and dashboards.
 - `reports/` – Analysis findings and reports.
 - `sql/` – MySQL analysis queries.
-- `src/` – Python scripts.
 - `.gitignore` – Files excluded from Git tracking.
 - `LEARNING_LOG.md` – Learning progress and notes.
 - `PROJECT_BRIEF.md` – Project plan and scope.
-- `requirements.txt` – Python dependencies.
